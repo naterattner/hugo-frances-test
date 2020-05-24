@@ -1,0 +1,10 @@
+# Site settings
+baseurl = "https://example.com"
+languageCode = "en-us"
+sectionPagesMenu = "main"
+
+[params]
+	name = "Nate Rattner"
+	description = "Data Journalist"
+	email = "naterattner@gmail.com"
+	author = "Nate Rattner"

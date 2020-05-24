@@ -1,0 +1,7 @@
+baseURL = "http://naterattner.com/"
+languageCode = "en-us"
+title = "Nate Rattner Data Journalism Portfolio"
+theme = "frances"
+sectionPagesMenu = "main"
+[params]
+  Author = "Nate Rattner"
